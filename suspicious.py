@@ -170,5 +170,19 @@ tlds = [
     '.party',
     '.tech',
     '.science',
-    '.business'
-]
+    '.business',
+    '.press',
+    '.reise',
+    '.accountant',
+    '.cricket',
+    '.yokahama',
+    '.sale',
+    '.host',
+    '.faith',
+    '.link',
+    '.bid',
+    '.webcam',
+    '.agency',
+    '
+
+]  
