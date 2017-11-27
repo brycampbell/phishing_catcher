@@ -183,6 +183,14 @@ tlds = [
     '.bid',
     '.webcam',
     '.agency',
-    '
+    '.schule',
+    '.km',
+    '.rw',
+    '.faith',
+    '.cw',
+    '.today',
+    '.zm',
+    '.fi',
+      
 
 ]  
