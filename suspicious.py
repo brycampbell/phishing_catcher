@@ -36,6 +36,8 @@ keywords = {
     'online': 10,
     'safe': 10,
     'form': 10,
+    'authorise':25,
+    
 
 # Apple iCloud
     'appleid': 70,
@@ -69,7 +71,13 @@ keywords = {
     'instagram': 60,
     'flickr': 60,
     'whatsapp': 60,
-
+    'wire': 60,
+    'signal': 60,
+    'wechat': 60,
+    'weibo': 60,
+    'QQ':60,
+    'Qzone':60,
+    
 # Cryptocurrency
     'localbitcoin': 70,
     'poloniex': 60,
@@ -102,7 +110,11 @@ keywords = {
     'ameritrade': 60,
     'merilledge': 60,
     'bank': 15,
-
+    'rbs': 60,
+    'ApplePay',: 50
+    'Barclays',: 50
+    'Natwest',: 50
+    
 # Ecommerce
     'amazon': 60,
     'overstock': 60,
@@ -114,6 +126,8 @@ keywords = {
     'netflix': 70,
     'skype': 60,
     'github': 60,
+    'hmrc': 80,
+    
 
 # Miscellaneous & SE tricks
     'cgi-bin': 50,
@@ -191,6 +205,5 @@ tlds = [
     '.today',
     '.zm',
     '.fi',
-      
-
+    
 ]  
