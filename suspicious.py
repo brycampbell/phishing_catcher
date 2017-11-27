@@ -111,9 +111,9 @@ keywords = {
     'merilledge': 60,
     'bank': 15,
     'rbs': 60,
-    'ApplePay',: 50
-    'Barclays',: 50
-    'Natwest',: 50
+    'ApplePay': 50,
+    'Barclays': 50,
+    'Natwest': 50,
     
 # Ecommerce
     'amazon': 60,
