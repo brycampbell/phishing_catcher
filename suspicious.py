@@ -36,7 +36,9 @@ keywords = {
     'online': 10,
     'safe': 10,
     'form': 10,
-    'authorise':25,
+    'authorise': 25,
+    'swift': 25,
+    '
     
 
 # Apple iCloud
@@ -60,6 +62,8 @@ keywords = {
     'yahoo': 60,
     'google': 60,
     'yandex': 60,
+    'protonmail': 60,
+    'googlemail': 60,    
 
 # Social Media
     'twitter': 60,
@@ -75,8 +79,10 @@ keywords = {
     'signal': 60,
     'wechat': 60,
     'weibo': 60,
-    'QQ':60,
-    'Qzone':60,
+    'QQ': 60,
+    'Qzone': 60,
+    'discordapp': 60,
+    
     
 # Cryptocurrency
     'localbitcoin': 70,
@@ -94,6 +100,12 @@ keywords = {
     'bitfinex': 60,
     'bitconnect': 60,
     'coinsbank': 60,
+    'Litecoin': 60,
+    'Ethereum': 60,
+    'Monero': 60,
+    'Zcash': 60,
+    
+    
 
 # Bank/money
     'paypal': 70,
@@ -111,9 +123,11 @@ keywords = {
     'merilledge': 60,
     'bank': 15,
     'rbs': 60,
-    'ApplePay': 50,
-    'Barclays': 50,
-    'Natwest': 50,
+    'applePay': 50,
+    'barclays': 50,
+    'natwest': 50,
+    'squareup': 50,
+    
     
 # Ecommerce
     'amazon': 60,
@@ -127,6 +141,8 @@ keywords = {
     'skype': 60,
     'github': 60,
     'hmrc': 80,
+    
+    
     
 
 # Miscellaneous & SE tricks
