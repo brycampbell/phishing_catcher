@@ -38,15 +38,16 @@ keywords = {
     'form': 10,
     'authorise': 25,
     'swift': 25,
-    '
-    
+       
 
 # Apple iCloud
     'appleid': 70,
     'icloud': 60,
     'iforgot': 60,
     'itunes': 50,
-    'apple':30,
+    'apple': 30,
+    'applesupport': 50,
+    'imessage': 60,
 
 # Email
     'outlook': 60,
@@ -82,6 +83,8 @@ keywords = {
     'QQ': 60,
     'Qzone': 60,
     'discordapp': 60,
+    'telegram': 70,
+    
     
     
 # Cryptocurrency
@@ -135,12 +138,15 @@ keywords = {
     'alibaba': 60,
     'aliexpress': 60,
     'leboncoin': 70,
-
+    'banggood':60,
+    
 # Other
     'netflix': 70,
     'skype': 60,
     'github': 60,
     'hmrc': 80,
+    'bit.ly':40, # experimental, may break things!
+    
     
     
     
