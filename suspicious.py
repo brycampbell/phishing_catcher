@@ -228,5 +228,7 @@ tlds = [
     '.zm',
     '.fi',
     '.trade',
+    '.live',
+    '.world',
     
 ]  
