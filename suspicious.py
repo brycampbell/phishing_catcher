@@ -227,6 +227,6 @@ tlds = [
     '.today',
     '.zm',
     '.fi',
-    'trade',
+    '.trade',
     
 ]  
