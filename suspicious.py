@@ -130,6 +130,7 @@ keywords = {
     'barclays': 50,
     'natwest': 50,
     'squareup': 50,
+    'TSB': 70,
     
     
 # Ecommerce
