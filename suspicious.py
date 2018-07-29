@@ -131,6 +131,11 @@ keywords = {
     'natwest': 50,
     'squareup': 50,
     'TSB': 70,
+    'Factures': 60,
+    'Zahlungserinnerung': 70,
+    'Rechnung': 60,
+    'Bezahlen': 50,
+    'Rechnungszahlung': 80,
     
     
 # Ecommerce
