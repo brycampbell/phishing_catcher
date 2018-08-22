@@ -86,7 +86,7 @@ keywords = {
     'telegram': 70,
     
     # US Goverment 
-    'Senate: 90,
+    'Senate': 90,
     'DNC': 70,
     'Democrats': 80,
     'GOP': 60,
