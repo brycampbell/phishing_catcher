@@ -85,6 +85,12 @@ keywords = {
     'discordapp': 60,
     'telegram': 70,
     
+    # US Goverment 
+    'Senate: 90,
+    'DNC': 70,
+    'Democrats': 80,
+    'GOP': 60,
+    'Republicans': 80,
     
     
 # Cryptocurrency
