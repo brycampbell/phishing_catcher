@@ -242,5 +242,18 @@ tlds = [
     '.trade',
     '.live',
     '.world',
-    
+    '.ki',
+    '.nf',
+    '.sx',
+    '.so',
+    '.sc',
+    '.tj',
+    '.ug',
+    '.to',
+    '.sh',
+    '.rent',
+    '.ms',
+    '.mu',
+    '.biz'
+   
 ]  
